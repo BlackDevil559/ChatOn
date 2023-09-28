@@ -1,3 +1,6 @@
+# Developer 
+Bhumesh Gaur (B21040) 
+IIT Mandi Computer Science & Engineering
 # ChatOn - Real-time Chat Application
 
 ChatOn is a real-time chat application built with the power of the MERN (MongoDB, Express.js, React, Node.js) Stack. It allows users to create accounts, log in, and engage in real-time text conversations with other users. Additionally, ChatOn features online audio & video call capabilities and an integrated ChatBot.
